@@ -2,7 +2,7 @@
 
 <img src="https://github.com/cleitonleonel/pycbet/blob/master/cbet.svg?raw=true" alt="pycbet" width="200"/>
 
-Pyblaze possibilita o acesso a api do site [cbet](https://cbet.gg/) utilizando python, retornando os últimos resultados de jetx cassino. 
+Pycbet possibilita o acesso a api do site [cbet](https://cbet.gg/) utilizando python, retornando os últimos resultados de jetx cassino. 
 # Instalação e uso:
 
 ```shell
